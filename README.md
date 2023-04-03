@@ -1,5 +1,7 @@
 # Hotel-Booking-Project
 **Project Summary -** The given dataset is of hotel booking. I explored and analyzed the given dataset and discovered some important factors regarding hotel booking. For this, I first read the given data in my collab notebook and then understand the whole data like what are variables in the given data. After that cleaned the data frame in data wrangling. For that I used some functions like drop(), fillna(), isna()/isnull() functions. Then I added some columns which are required in the analysis and removed some columns which are not required. Using this data frame I explored some variables using visualization charts like pie charts, count plots, barplot, and heatmaps and I can find out some insights which are important factors. From these insights, I can suggest some business objectives to clients.
+
+
 **Problem Statement :-** In this project we are going to analyse Hotel Booking dataset. This dataset contains information of city hotel and resort hotel, and includes information of booking time, length of stay, number of adults, children and/or babies, also have information of avaliable parking space, among other thing.
 
 The objective of this project is explore and analyse the data to discover important factors regarding Hotels booking and its attributes.
